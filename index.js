@@ -3,7 +3,7 @@ import { getDatabase, ref, push, onValue, remove } from 'https://www.gstatic.com
 
 
 const appSettings = {
-    databaseURL: "https://mygrocerylist-aryadeepit-default-rtdb.asia-southeast1.firebasedatabase.app"
+    databaseURL: "https://mylist-aryadeepit-default-rtdb.asia-southeast1.firebasedatabase.app/"
 }
 
 const app = initializeApp(appSettings)
